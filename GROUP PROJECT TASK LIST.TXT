@@ -1,0 +1,6 @@
+Completed so far 04.22.2021
+
+all private data members and data types in parentheses
+constructors (default and parameters)
+accessor (i.e. getters) methods for all private data members
+mutator (i.e. setters) methods for all private data members
